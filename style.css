@@ -430,3 +430,21 @@ span {
     width: 90vw;
   }
 }
+
+.skills {
+  background: var(--second-bg-color);
+}
+
+.skills h1 {
+  text-align: center;
+  font-size: 4.5rem;
+}
+.icons img {
+  padding: 40px;
+  background: white;
+
+  border-radius: 3rem;
+  margin-inline: 30px;
+  margin-bottom: 30px;
+  margin-top: 30px;
+}
