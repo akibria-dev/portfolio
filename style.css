@@ -188,7 +188,7 @@ span {
   margin: 2rem 0 3rem;
 }
 .portfolio {
-  background: var(--bg-color);
+  background: var(--second-bg-color);
   min-height: auto;
   padding-bottom: 10rem;
 }
@@ -262,7 +262,7 @@ span {
   margin-bottom: 3rem;
 }
 .contact {
-  background: var(--second-bg-color);
+  background: var(--bg-color);
   min-height: auto;
   padding-bottom: 7rem;
 }
@@ -283,7 +283,7 @@ span {
   padding: 1.5rem;
   font-size: 1.6rem;
   color: var(--text-color);
-  background: var(--bg-color);
+  background: var(--second-bg-color);
   border-radius: 0.8rem;
   margin: 0.7rem 0;
 }
@@ -304,7 +304,7 @@ span {
   align-items: center;
   flex-wrap: wrap;
   padding: 2rem 9%;
-  background: var(--bg-color);
+  background: var(--second-bg-color);
 }
 
 .footer-text p {
@@ -432,7 +432,7 @@ span {
 }
 
 .skills {
-  background: var(--second-bg-color);
+  background: var(--bg-color);
 }
 
 .skills h1 {
